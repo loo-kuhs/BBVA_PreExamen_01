@@ -34,7 +34,7 @@ Toma una matriz de números y una cadena, y devuelve un objeto con una cadena y 
 
 Toma un nombre de usuario, una matriz de montos de pago y un código de producto, y devuelve un mensaje al usuario con el cambio que debe recibir.
 
-* @param {string}  usuario - cade de texto,
+* @param {string}  usuario - cadena de texto,
 
 * @param {number[]}  pago - []
 
@@ -52,9 +52,9 @@ Producto A:
 Producto B:
 
     retornoCambio("Jose", [100,  100,  100,  100],  "B");
-* Jose, tu cambio por el Producto A es 1 monedas de $50.
+* Jose, tu cambio por el Producto B es 1 monedas de $50.
 
-* Jose, tu cambio por el Producto A es 1 monedas de $10.
+* Jose, tu cambio por el Producto B es 1 monedas de $10.
 
 Producto C:
 
@@ -63,7 +63,7 @@ Producto C:
 
 ## Diagrama de flujo
 ![enter image description here](https://svgshare.com/i/m9i.svg)
- [Ver diagrama de flujo en mayo resolucion](https://svgshare.com/i/m9i.svg)
+ [Ver diagrama de flujo en mayor resolucion](https://svgshare.com/i/m9i.svg)
 
 
 
