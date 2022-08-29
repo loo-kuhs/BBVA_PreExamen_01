@@ -61,8 +61,9 @@ Producto C:
     retornoCambio("Sarah", [100,  100,  50,  10,  100,  10,  10,  10],  "C");
 * Sarah, pagaste lo justo por el Producto C.
 
-
-   
+## Diagrama de flujo
+![enter image description here](https://svgshare.com/i/m9i.svg)
+ [Ver diagrama de flujo en mayo resolucion](https://svgshare.com/i/m9i.svg)
 
 
 
