@@ -144,21 +144,7 @@ const retornoCambio = (
 };
 
 retornoCambio("Carlos", [100, 10, 50, 100, 100], "A");
-/**
- * Respuesta esperada:
- * Carlos, tu cambio por el Producto A es 1 monedas de $50.
- * Carlos, tu cambio por el Producto A es 4 monedas de $10.
- */
 
 retornoCambio("Jose", [100, 100, 100, 100], "B");
-/**
- * Respuesta esperada:
- * Jose, tu cambio por el Producto A es 1 monedas de $50.
- * Jose, tu cambio por el Producto A es 1 monedas de $10.
- */
 
 retornoCambio("Sarah", [100, 100, 50, 10, 100, 10, 10, 10], "C");
-/**
- * Respuesta esperada:
- * Sarah, pagaste lo justo por el Producto C.
- */
